@@ -1,8 +1,8 @@
 # resonite-substance-support
  A set of presets and shaders intended to create parity between Resonite and the Adobe Substance Suite
 
- Created by Gareth48 (@gareth48 on discord)
- 2021 Support added by [Polly-Geist](https://github.com/polly-geist)
+- Created by Gareth48 (@gareth48 on discord)
+- 2021 Support added by [Polly-Geist](https://github.com/polly-geist)
 
 # Google Docs Version
 I intend to keep both up to date, just in case the google docs formatting might be preferred I'll leave it here
